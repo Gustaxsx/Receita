@@ -6,11 +6,11 @@ Primeiro projeto feito no codepen
 
 ## Tecnologias 
 
-*HTML
-*CSS
-*Markdown
-*GitHub
-*Git
+* HTML
+* CSS
+* Markdown
+* GitHub
+* Git
 
 ## Autor
 [Gustavo Mathias]
